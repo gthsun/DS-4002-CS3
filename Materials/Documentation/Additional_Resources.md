@@ -16,6 +16,6 @@ https://barnesanalytics.com/sarima-models-using-statsmodels-in-python/
 
 Official documentation for SARIMA/SARIMAX modeling implementation and SARIMAX explanation.
 
-https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html?utm_source=chatgpt.com
+https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html
 
 https://www.codecademy.com/resources/docs/python/statsmodels/sarimax
